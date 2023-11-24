@@ -1,5 +1,8 @@
 # **ASCIIM - Image to ASCII Text Converter**
 
+<!--markdownlint-disable MD033-->
+<img src="./image/readme/1700848197979.png" width=150 align="right">
+
 ASCIIM is a simple yet powerful tool that converts images into ASCII text. This project was developed while following tutorials from Coding Train, leveraging the concepts and techniques demonstrated in those videos.
 
 ## **Example**
